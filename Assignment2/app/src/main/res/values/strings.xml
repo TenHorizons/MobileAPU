@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">APU Mobile</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="home">Home</string>
+    <string name="lectures">Lectures</string>
+    <string name="attendance">Attendance</string>
+    <string name="logout">Logout</string>
+    <string name="userName">Lim Ze Hong</string>
+    <string name="intake">APD2F2102SE</string>
+    <string name="drawerTitle">Profile</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

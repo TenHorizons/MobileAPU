@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/item_question"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="1. Sample question: abc?" />
+
+    <RadioGroup
+        android:id="@+id/item_radio_group"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RadioButton
+            android:id="@+id/item_option_1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:text="item_option_1" />
+
+        <RadioButton
+            android:id="@+id/item_option_2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:text="item_option_2" />
+
+        <RadioButton
+            android:id="@+id/item_option_3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:text="item_option_3" />
+
+        <RadioButton
+            android:id="@+id/item_option_4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:text="item_option_4" />
+    </RadioGroup>
+
+</LinearLayout>
